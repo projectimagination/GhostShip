@@ -1,0 +1,52 @@
+# ============================
+# GhostShip .gitignore
+# ============================
+
+# --- OS / System files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# --- VS Code ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- Node / JS (future) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Python (future tools) ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# --- Build / Output ---
+dist/
+build/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- GhostShip Custom Rules ---
+# Never commit private dev or compost
+PNY_PRIVATE/
+*_private.json
+*_compost.json
+*.swp
+*.swo
+
+# --- Git backups ---
+*.orig
+*.rej
+
+# --- OSCC / School pilots ---
+college-pilot/temp/
