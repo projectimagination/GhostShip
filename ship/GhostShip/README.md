@@ -1,26 +1,26 @@
 ﻿# 🚢 GhostShip
 
-**GhostShip** is the public mothership for white-labeled GardenOS apps.  
+**GhostShip** is the public mothership for Project Imagination LLC's white-labeled education apps.  
 It carries projects like:
 
 - **SpecGhost** – simple system spec & witness tool  
-- **GuideGhost** – portable dev + education toolkit  
-- **TrueGrowthLMS** – Learning + Life platform (pilot: OCCC)  
+- **GuideGhostAI** – portable dev + education toolkit  
+- **TrueGrowthLMS** – Learning + Life platform (pilot: Looking for partners)  
 - **Mycelium** – connective growth layer  
+- *(more to come)*
 
 ---
 
 ## 🌱 Mission
 GhostShip exists to:
 - Provide schools and communities with scalable white-label tools  
-- Keep private Garden development separate and protected  
 - Preserve dev history, rights, and IP for everyone who builds with us  
 
 ---
 
-## 🎓 OCCC Pilot
-The first pilot partner is **Oklahoma City Community College (OCCC)**.  
-GhostShip is being tested as a way for students, faculty, and mentors to:  
+## 🎓 Pilot Program
+GhostShip is currently **looking for our first institutional partner**.  
+The pilot will test how students, faculty, and mentors can:  
 - Connect through **TrueGrowthLMS**  
 - Link life goals with academic progress  
 - Explore AI in education responsibly  
@@ -33,25 +33,23 @@ This repo is where the journey starts.
 
 GhostShip/
 ├── SpecGhost/
-├── GuideGhost/
+├── GuideGhostAI/
 ├── TrueGrowthLMS/
 │ ├── Life/
 │ └── Link/
 ├── Mycelium/
-├── .gitignore
 └── README.md
 
 ---
 
 ## ⚡ Roadmap
 - [x] Repo initialized  
-- [x] .gitignore applied  
-- [ ] Add README + structure  
-- [ ] First commits for SpecGhost + GuideGhost  
-- [ ] Build out TrueGrowthLMS pilot for OCCC  
+- [x] README added  
+- [ ] First commits for SpecGhost + GuideGhostAI  
+- [ ] Build out TrueGrowthLMS pilot with partner institution  
 
 ---
 
 ## 🔒 License & Rights
-This repo is part of the **Garden GhostShip LLC** ecosystem.  
-Modules may be white-labeled for partner institutions, while Garden IP stays protected.  
+This repo is part of the **GhostShip LLC** ecosystem.  
+Modules may be white-labeled for partner institutions, while **Project Imagination LLC** IP remains protected.
