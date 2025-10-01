@@ -30,7 +30,6 @@ This repo is where the journey starts.
 ---
 
 ## 📂 Repo Structure
-
 GhostShip/
 ├── SpecGhost/
 ├── GuideGhostAI/
